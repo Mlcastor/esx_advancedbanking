@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_advancedbanking/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_advancedbanking:** migrate legacy resource into template skeleton ([3571444](https://github.com/Mlcastor/esx_advancedbanking/commit/3571444040f2cc4924c0a7da209d46f38a7ae29a))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
